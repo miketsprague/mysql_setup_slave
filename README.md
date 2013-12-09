@@ -6,7 +6,7 @@ How to setup a new slave:
 
 3. ./create_snapshot.sh
 
-4. git add .
+4. git add . ; git commit -m "Update snapshot"
 
 5. git push origin master
 
