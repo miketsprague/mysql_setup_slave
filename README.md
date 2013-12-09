@@ -30,7 +30,7 @@ How to setup a new slave:
 
 15. Update config/shards.yml in the notify git to use the new slave number and address.
 
-16. cap deploy
+16. cap deploy!
 
 
 Make sure that you increment the slave number each time!
